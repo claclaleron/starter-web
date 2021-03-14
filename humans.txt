@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Claire Leron   Claire@git.training
 
 # THANKS
 
